@@ -6,7 +6,7 @@
 // UNSUPPORTED: OS=linux-gnu, OS=linux-android, OS=linux-androideabi
 
 // SR-12893
-// XFAIL: OS=openbsd
+// XFAIL: OS=openbsd, OS=freebsd
 
 sil_stage canonical
 

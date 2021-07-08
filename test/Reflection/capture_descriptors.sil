@@ -2,7 +2,7 @@
 // REQUIRES: no_asan
 
 // SR-12893
-// XFAIL: OS=openbsd
+// XFAIL: OS=openbsd, OS=freebsd
 // UNSUPPORTED: OS=linux-android, OS=linux-androideabi
 
 // RUN: %empty-directory(%t)
